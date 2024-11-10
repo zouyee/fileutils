@@ -1,2 +1,3 @@
 # fileutils
-collection of utilities for file manipulation in ziglang
+
+Collection of utilities for file manipulation in ziglang
